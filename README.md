@@ -82,7 +82,7 @@
 
 | 🎯 Project | 📝 Description | 🛠️ Tech |
 |-----------|----------------|----------|
-| **🎨 PostMaker** | AI poster generator with OpenAI DALL-E 3 & Firebase | React, TypeScript, Firebase, OpenAI |
+| **🎨 Poster Maker** | AI poster generator with OpenAI DALL-E 3 & Firebase | React, TypeScript, Firebase, OpenAI |
 | **🧼 Whiff Wonder** | Hygiene tracking app with AI chat assistant & rewards | React, TypeScript, Firebase, Capacitor |
 | **🧵 Stitch House** | AI-powered body measurement & tailoring platform | MediaPipe, PHP, JavaScript, MySQL |
 | **😊 Emotion Recognition** | ANN-based emotion detection from text | Python, TensorFlow, Neural Networks |
