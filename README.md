@@ -82,12 +82,12 @@
 
 | 🎯 Project | 📝 Description | 🛠️ Tech |
 |-----------|----------------|----------|
-| **🎬 Decksnap** | One-click AI presentation generator (Solo Project) | Next.js, React, FastAPI, PostgreSQL, OpenRouter |
-| **🤖 Inflectiv** | AI Agent SaaS platform with RAG & blockchain auth | Python, FastAPI, Next.js, Qdrant, PostgreSQL |
-| **🔗 FlowPuppy** | Visual AI workflow builder with 17 providers & Web3 | Python, FastAPI, Next.js, React Flow, Solana |
-| **🎨 Poster Maker** | AI poster generator with OpenAI DALL-E 3 & Firebase | React, TypeScript, Firebase, OpenAI |
-| **🧼 Whiff Wonder** | Hygiene tracking app with AI chat assistant & rewards | React, TypeScript, Firebase, Capacitor |
-| **🧵 Stitch House** | AI-powered body measurement & tailoring platform | MediaPipe, PHP, JavaScript, MySQL |
+| **🎬 Decksnap** | AI presentation generator - Built entirely solo | Next.js, React, FastAPI, PostgreSQL, OpenRouter |
+| **🤖 Inflectiv** | Integrated SDK, Stripe payments & workflow testing | Python, FastAPI, Next.js, Qdrant, PostgreSQL |
+| **🔗 FlowPuppy** | Built workflow nodes & UI components | Python, FastAPI, Next.js, React Flow, Solana |
+| **🎨 Poster Maker** | AI poster generator - Built entirely solo | React, TypeScript, Firebase, OpenAI |
+| **🧼 Whiff Wonder** | Hygiene tracking app - Built entirely solo | React, TypeScript, Firebase, Capacitor |
+| **🧵 Stitch House** | AI body measurement platform - Built entirely solo (FYP) | MediaPipe, PHP, JavaScript, MySQL |
 </div>
 
 ---
