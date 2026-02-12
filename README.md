@@ -64,11 +64,13 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00A8E8?style=for-the-badge&logo=google&logoColor=white)
 
-### 🛠️ Tools & Databases
+### 🌐 Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -80,10 +82,10 @@
 
 | 🎯 Project | 📝 Description | 🛠️ Tech |
 |-----------|----------------|----------|
+| **🎨 PostMaker** | AI poster generator with OpenAI DALL-E 3 & Firebase | React, TypeScript, Firebase, OpenAI |
 | **🧵 Stitch House** | AI-powered body measurement & tailoring platform | MediaPipe, PHP, JavaScript, MySQL |
 | **😊 Emotion Recognition** | ANN-based emotion detection from text | Python, TensorFlow, Neural Networks |
 | **🛒 E-commerce Website** | Full-stack e-commerce platform | HTML, CSS, JavaScript, PHP |
-| **🎨 Poster-AI** | AI-powered poster generation tool | TypeScript, AI |
 
 </div>
 
