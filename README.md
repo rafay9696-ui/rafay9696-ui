@@ -1,125 +1,160 @@
+<!-- Terminal Style GitHub Profile -->
+
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HELLO%20WORLD&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20Profile&descAlignY=55&descSize=18"/>
+<!-- Typing Animation Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+whoami;Abdul+Rafay+%7C+AI+Engineer+%26+Full+Stack+Developer" alt="Typing SVG" />
+</a>
 
-<a href="https://github.com/AbdulRafay96-code">
-  <img src="https://img.shields.io/badge/GitHub-rafay9696--ui-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="mailto:rafay9696@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rafay9696@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
+
+```bash
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   ██████╗  █████╗ ███████╗ █████╗ ██╗   ██╗    █████╗  ██████╗              │
+│   ██╔══██╗██╔══██╗██╔════╝██╔══██╗╚██╗ ██╔╝   ██╔══██╗██╔════╝              │
+│   ██████╔╝███████║█████╗  ███████║ ╚████╔╝    ╚██████║███████╗              │
+│   ██╔══██╗██╔══██║██╔══╝  ██╔══██║  ╚██╔╝      ╚═══██║██╔═══██╗             │
+│   ██║  ██║██║  ██║██║     ██║  ██║   ██║       █████╔╝╚██████╔╝             │
+│   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝       ╚════╝  ╚═════╝              │
+│                                                                              │
+│                     Associate AI Engineer @ BIG IMMERSIVE                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AbdulRafay96--code-181717?style=flat-square&logo=github)](https://github.com/AbdulRafay96-code)
+[![Email](https://img.shields.io/badge/Email-rafay9696@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafay9696@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul_Rafay-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdul-rafay-99265236b/)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'M ABDUL RAFAY!
+## `$ cat about_me.txt`
 
-**AI Engineer & Full Stack Developer**
+```javascript
+const abdulRafay = {
+    title: "Associate AI Engineer",
+    company: "BIG IMMERSIVE",
+    education: "BS Computer Science - University of Lahore (2025)",
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+    languages: ["Python", "JavaScript", "TypeScript", "PHP"],
 
-I am a Full Stack Developer and AI Engineer with a passion for building intelligent applications using Python, React, Next.js, FastAPI, and Machine Learning technologies.
+    expertise: {
+        ai_ml: ["TensorFlow", "OpenAI", "MediaPipe", "RAG Systems"],
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["FastAPI", "Node.js", "PostgreSQL", "Firebase"],
+        tools: ["Git", "Docker", "Qdrant", "Redis"]
+    },
 
-- :student: **CS Graduate** from University of Lahore (2025)
-- :briefcase: Currently working at **BIG IMMERSIVE** as Associate AI Engineer
-- :rocket: Built **Decksnap** entirely solo - AI presentation generator
-- :hammer_and_wrench: Created **Poster Maker**, **Whiff Wonder** & **Stitch House** from scratch
-- :link: Integrated **Inflectiv SDK** with Stripe payments & workflow testing
-- :art: Built workflow nodes & UI for **FlowPuppy**
-- :heart: Contributing to AI-powered SaaS platforms
-- :mailbox: Reach me at **rafay9696@gmail.com**
+    currentlyBuilding: "AI-powered SaaS platforms",
 
-<br/>
-
-<a href="https://www.linkedin.com/in/abdul-rafay-99265236b/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=AbdulRafay96-code&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-
-<br clear="both"/>
+    contact: "rafay9696@gmail.com"
+};
+```
 
 ---
 
-## :computer: Tech Stack
+## `$ ls -la ./projects/`
+
+```
+drwxr-xr-x  solo     decksnap/        # AI Presentation Generator (Built Solo)
+drwxr-xr-x  solo     poster-maker/    # AI Poster Generator with DALL-E 3 (Built Solo)
+drwxr-xr-x  solo     whiff-wonder/    # Hygiene Tracking App (Built Solo)
+drwxr-xr-x  solo     stitch-house/    # AI Body Measurement Platform - FYP (Built Solo)
+drwxr-xr-x  contrib  inflectiv/       # SDK Integration, Stripe Payments & Workflow
+drwxr-xr-x  contrib  flowpuppy/       # Built Workflow Nodes & UI Components
+```
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| `decksnap` | AI presentation generator with 12 themes & SSE streaming | Next.js, FastAPI, PostgreSQL |
+| `inflectiv` | Integrated SDK, Stripe payments & workflow testing | Python, FastAPI, Qdrant |
+| `flowpuppy` | Built workflow nodes & UI components | React Flow, FastAPI, Solana |
+| `poster-maker` | AI poster generator with OpenAI DALL-E 3 | React, Firebase, OpenAI |
+| `whiff-wonder` | Hygiene tracking with AI chat assistant | React, Firebase, Capacitor |
+| `stitch-house` | AI body measurement using MediaPipe | MediaPipe, PHP, MySQL |
+
+---
+
+## `$ neofetch`
+
+```
+                    ████████████████                abdul@github
+                ████                ████            ---------------
+              ██    ████████████████    ██          OS: Developer v2025
+            ██    ████            ████    ██        Host: BIG IMMERSIVE
+          ██    ██                    ██    ██      Kernel: AI/ML
+          ██  ██      ██      ██      ██    ██      Uptime: Since Aug 2025
+        ██    ██      ████████████    ██    ██      Shell: Python/JS/TS
+        ██    ██                      ██    ██      Resolution: Full Stack
+        ██    ██    ████████████████  ██    ██      DE: React + Next.js
+        ██    ██                      ██    ██      WM: FastAPI
+        ██    ██      ██      ██      ██    ██      Theme: Dark [AI Edition]
+          ██  ██      ██████████      ██  ██        Icons: Lucide
+          ██    ██                  ██    ██        Terminal: VS Code
+            ██    ████████████████    ██            CPU: 100% Coding
+              ██                    ██              GPU: Creativity Enabled
+                ████            ████                Memory: Always Learning
+                    ████████████
+```
+
+---
+
+## `$ git log --oneline achievements`
+
+```
+a1b2c3d feat: Built Decksnap - AI presentation generator (Solo Project)
+d4e5f6g feat: Integrated Inflectiv SDK with Stripe payments
+g7h8i9j feat: Built workflow nodes & UI for FlowPuppy
+k0l1m2n feat: Created Poster Maker with OpenAI DALL-E 3 (Solo)
+o3p4q5r feat: Developed Whiff Wonder hygiene tracking app (Solo)
+s6t7u8v feat: Built Stitch House - AI body measurement FYP (Solo)
+w9x0y1z init: Started journey as AI Engineer @ BIG IMMERSIVE
+```
+
+---
+
+## `$ cat stats.sh | bash`
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulRafay96-code&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00A8E8?style=for-the-badge&logo=google&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=AbdulRafay96-code&style=flat-square&color=00ff00&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## :rocket: Featured Projects
+## `$ echo "Let's Connect!"`
 
 <div align="center">
 
-| :dart: Project | :page_facing_up: Description | :hammer_and_wrench: Tech |
-|-----------|----------------|----------|
-| **:clapper: Decksnap** | AI presentation generator - Built entirely solo | Next.js, React, FastAPI, PostgreSQL, OpenRouter |
-| **:robot: Inflectiv** | Integrated SDK, Stripe payments & workflow testing | Python, FastAPI, Next.js, Qdrant, PostgreSQL |
-| **:link: FlowPuppy** | Built workflow nodes & UI components | Python, FastAPI, Next.js, React Flow, Solana |
-| **:art: Poster Maker** | AI poster generator - Built entirely solo | React, TypeScript, Firebase, OpenAI |
-| **:soap: Whiff Wonder** | Hygiene tracking app - Built entirely solo | React, TypeScript, Firebase, Capacitor |
-| **:thread: Stitch House** | AI body measurement platform - Built entirely solo (FYP) | MediaPipe, PHP, JavaScript, MySQL |
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║   📧 Email: rafay9696@gmail.com                                       ║
+║   💼 LinkedIn: linkedin.com/in/abdul-rafay-99265236b                  ║
+║   🐙 GitHub: github.com/AbdulRafay96-code                             ║
+║                                                                       ║
+║   💚 Open for collaborations on AI/ML projects!                       ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rafay-99265236b/)
+[![Email](https://img.shields.io/badge/-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafay9696@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulRafay96-code)
 
 </div>
 
----
-
-## :chart_with_upwards_trend: GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulRafay96-code&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## :handshake: Let's Connect!
-
-<div align="center">
-
-**:briefcase: Open for collaborations on AI/ML projects**
-
-**:star: Let's build something amazing together!**
-
-<br/>
-
-<a href="https://www.linkedin.com/in/abdul-rafay-99265236b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:rafay9696@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/AbdulRafay96-code">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+```bash
+$ exit
+logout
+Connection to github.com closed.
+```
