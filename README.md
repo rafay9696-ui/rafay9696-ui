@@ -76,6 +76,8 @@
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 | 🎯 Project | 📝 Description | 🛠️ Tech |
 |-----------|----------------|----------|
 | **🧵 Stitch House** | AI-powered body measurement & tailoring platform | MediaPipe, PHP, JavaScript, MySQL |
@@ -83,17 +85,15 @@
 | **🛒 E-commerce Website** | Full-stack e-commerce platform | HTML, CSS, JavaScript, PHP |
 | **🎨 Poster-AI** | AI-powered poster generation tool | TypeScript, AI |
 
+</div>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafay9696-ui&show_icons=true&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rafay9696-ui&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafay9696-ui&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
